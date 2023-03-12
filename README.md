@@ -32,6 +32,6 @@ Application loads with no errors.
 
 ## Notes
 
-[Live link](https://leybaair.github.io/Password-Generator/)
+[Live link](git@github.com:LeybaAir/Web-API-Quiz.git)
 
-Image Screen Shot: ![On a desktop, image displays finished project](./passwordgenerated.png)
+Image Screen Shot: ![On a desktop, image displays finished project](/Fun%20Fact%20Quiz.png)
