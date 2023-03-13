@@ -32,6 +32,6 @@ Application loads with no errors.
 
 ## Notes
 
-[Live link](git@github.com:LeybaAir/Web-API-Quiz.git)
+[Live link](https://leybaair.github.io/Web-API-Quiz/)
 
 Image Screen Shot: ![On a desktop, image displays finished project](/Fun%20Fact%20Quiz.png)
